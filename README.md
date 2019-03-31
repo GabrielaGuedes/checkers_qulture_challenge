@@ -1,6 +1,6 @@
 # checkers_qulture_challenge
 
-##Description
+## Description
 
 Checkers game developed in Ruby for a selective process of a company. 
 I have used "ruby2d" for the GUI and installed it following [this](http://www.ruby2d.com/learn/windows/) instructions.
@@ -9,7 +9,7 @@ Execute the game through "mingw64.exe" console, opening the main file ("main.rb"
 
 Grid of this game was based on [this](https://github.com/acouprie/linky) game's grid: 
 
-##The game
+## The game
 
 When the user clicks on the text "Play" the game begins. It can be played with 2 players, using the same mouse. The player 1 always starts and has the white stones. The player 2 has the black ones.
 The rules of the game are the same of the traditional checkers game.
