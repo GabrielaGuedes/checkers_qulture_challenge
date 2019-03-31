@@ -7,7 +7,7 @@ I have used "ruby2d" for the GUI and installed it following [this](http://www.ru
 
 Execute the game through "mingw64.exe" console, opening the main file ("main.rb", inside the "lib" folder) with Ruby.
 
-Grid of this game was based on [this](https://github.com/acouprie/linky) game's grid: 
+Grid of this game was based on [this](https://github.com/acouprie/linky) game's grid.
 
 ## The game
 
